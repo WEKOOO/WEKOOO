@@ -15,11 +15,3 @@
 ![DVC](https://img.shields.io/badge/DVC-945DD6?logo=dataversioncontrol)
 
 ---
-
-## 📊 ML Metrics Dashboard
-```python
-print("Model Performance Summary".center(40, "-"))
-print(f"│ Best Accuracy:   94.2%       │")
-print(f"│ Inference Speed: 23ms/batch │")
-print(f"│ AUC-ROC:        0.97        │")
-print("-"*40)
