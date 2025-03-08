@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&width=435&lines=Machine+Learning+Engineer;NLP+Enthusiast;AI+Researcher)](https://git.io/typing-svg)
 
-![ML Banner](https://raw.githubusercontent.com/yourusername/yourusername/main/assets/ml-banner.gif) *// Tambahkan GIF AI/ML terkait*
-
----
-
 ## 🔥 Featured Projects
 
 ### 🤖 NLP Chatbot with Transformers
