@@ -1,4 +1,4 @@
-# 🧠 Hi, I'm [Nama Anda] | ML & AI Engineer
+# 🧠 Hi, I'm Weko Abbror | Machine Learning Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&width=435&lines=Machine+Learning+Engineer;NLP+Enthusiast;AI+Researcher)](https://git.io/typing-svg)
 
