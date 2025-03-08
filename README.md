@@ -1,32 +1,54 @@
-# Hi there 👋 I'm Weko Abbror
+# 🧠 Hi, I'm [Nama Anda] | ML & AI Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A73E8&width=435&lines=Full-Stack+Developer;Open-Source+Enthusiast;Tech+Writer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&width=435&lines=Machine+Learning+Engineer;NLP+Enthusiast;AI+Researcher)](https://git.io/typing-svg)
 
-🔭 **Currently Working On**  
-[![Project Name](https://img.shields.io/badge/-Project_Name-1A73E8?style=flat&logo=github)](https://github.com/yourusername/project)
-[![Project Name](https://img.shields.io/badge/-Another_Project-1A73E8?style=flat&logo=gitlab)](https://gitlab.com/yourproject)
-
-🌱 **Learning**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-
-💬 **Ask Me About**  
-Web Development, UI/UX Design, Open Source
-
-📫 **Reach Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:youremail@domain.com)
+![ML Banner](https://raw.githubusercontent.com/yourusername/yourusername/main/assets/ml-banner.gif) *// Tambahkan GIF AI/ML terkait*
 
 ---
 
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+## 🔥 Featured Projects
+
+### 🤖 NLP Chatbot with Transformers
+[![Open In Colab](https://img.shields.io/badge/-Open_in_Colab-F9AB00?style=flat&logo=google-colab)](https://colab.research.google.com/github/yourusername/project)
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface)](https://huggingface.co/yourmodel)
+![Accuracy](https://img.shields.io/badge/Accuracy-92.4%25-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+
+- **Model**: BERT fine-tuned on Custom Dataset
+- **Features**: Intent Classification, Entity Recognition
+- **Tools**: PyTorch, Transformers, ONNX
 
 ---
 
-### 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=default)](https://git.io/streak-stats)
+### 📈 Time Series Forecasting
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)](https://github.com/yourusername/project/blob/main/notebook.ipynb)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12.0-FF6F00?style=flat&logo=tensorflow)
+![RMSE](https://img.shields.io/badge/RMSE-0.14-success)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- **Architecture**: LSTM + Attention
+- **Dataset**: Stock Market Data (10M+ samples)
+- **Deployment**: FastAPI + Docker
+
+---
+
+## 🛠️ ML Stack
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF6F00?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn)
+
+### Tools & Platforms
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?logo=weightsandbiases)
+![DVC](https://img.shields.io/badge/DVC-945DD6?logo=dataversioncontrol)
+
+---
+
+## 📊 ML Metrics Dashboard
+```python
+print("Model Performance Summary".center(40, "-"))
+print(f"│ Best Accuracy:   94.2%       │")
+print(f"│ Inference Speed: 23ms/batch │")
+print(f"│ AUC-ROC:        0.97        │")
+print("-"*40)
