@@ -1,17 +1,37 @@
-# 🧠 Hi, I'm Weko Abbror
+<h1 align="center">
+  👋 Hi, I'm WEKOOO!
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&width=435&lines=Machine+Learning+Engineer;NLP+Enthusiast;AI+Researcher;Data+Analys)](https://git.io/typing-svg)
-
-## 🛠️ ML Stack
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-FF6F00?logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn)
-
-### Tools & Platforms
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?logo=weightsandbiases)
-![DVC](https://img.shields.io/badge/DVC-945DD6?logo=dataversioncontrol)
+<p align="center">
+  <strong>AI Researcher | Machine Learning Enthusiast</strong>
+</p>
 
 ---
+
+### 🧠 About Me
+- 🔬 Focused on AI/ML research and development
+- 📊 Building scalable machine learning models
+- 🤖 Exploring deep learning and NLP
+- 🌍 Open-source contributor & lifelong learner
+
+---
+
+### 💼 Skills
+| Language | Framework | Tools |
+|---------|-----------|-------|
+| Python  | TensorFlow | Git   |
+| R       | PyTorch    | Docker |
+| SQL     | Scikit-learn | Linux |
+
+---
+
+### 📈 Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WEKOOO&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats )
+
+---
+
+---
+
+### 📫 Contact
+📧 wekoabbror@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/weko-abbror/ ) | 
