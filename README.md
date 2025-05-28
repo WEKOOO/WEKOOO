@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I'm WEKOOO!
+  👋 Hi, I'm Weko Abbror!
 </h1>
 
 <p align="center">
